@@ -1,0 +1,13 @@
+{
+	"name": "Zerocutter",
+	"id": "com.CoolGaming.zerocutter",
+	"app-icon": "www/icons/icon-512.png",
+	"window": {
+		"window-icon": "www/icons/icon-16.png",
+		"title": "Zerocutter",
+		"width": 1280,
+		"height": 720,
+		"start-up-fullscreen": false
+	},
+	"enable-devtools": true
+}

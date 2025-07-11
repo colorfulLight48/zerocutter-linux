@@ -1,0 +1,6 @@
+chmod +x "Zerocutter"
+chmod +x "libEGL.so"
+chmod +x "libvulkan.so.1"
+chmod +x "libGLESv2.so"
+chmod +x "libvk_swiftshader.so"
+chmod +x "libcef.so"
